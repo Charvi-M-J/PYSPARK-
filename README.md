@@ -6,7 +6,7 @@ Implemented a real-world, scenario-based data engineering problem using PySpark 
 🔹Handling Slowly Changing Dimensions with Delta Live Tables (DLT)
 🔹Ensuring data consistency, reliability, and scalability for analytics
 
-https://github.com/Charvi-M-J/PYSPARK-/blob/bccd37e3dd1a2e848e4a82fafa2d646f3a1c35c7/Screenshot%202025-10-27%20023436.png
+![image alt](https://github.com/Charvi-M-J/PYSPARK-/blob/bccd37e3dd1a2e848e4a82fafa2d646f3a1c35c7/Screenshot%202025-10-27%20023436.png)
 
 This project simulates challenges faced in industry workflows and showcases best practices in modern data engineering.
 
